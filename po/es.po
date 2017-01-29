@@ -30,7 +30,7 @@ msgstr "Cambiar modo"
 #: /home/felipe/Projets/github/Notes-up/po/../src/Widgets/Headerbar.vala:52
 #: /home/felipe/Projets/github/Notes-up/po/../src/Widgets/NewNotebookDialog.vala:54
 msgid "New Notebook"
-msgstr "Crear Cuaderno"
+msgstr "Crear cuaderno"
 
 #: /home/felipe/Projets/github/Notes-up/po/../src/Widgets/Headerbar.vala:53
 #: /home/felipe/Projets/github/Notes-up/po/../src/Widgets/PreferencesDialog.vala:39
@@ -60,7 +60,7 @@ msgstr "Cancelar"
 #: /home/felipe/Projets/github/Notes-up/po/../src/Widgets/NewNotebookDialog.vala:66
 #: /home/felipe/Projets/github/Notes-up/po/../src/Widgets/NotebookItem.vala:46
 msgid "Edit Notebook"
-msgstr "Editar Cuaderno"
+msgstr "Editar cuaderno"
 
 #: /home/felipe/Projets/github/Notes-up/po/../src/Widgets/NewNotebookDialog.vala:78
 msgid "Create"
@@ -73,7 +73,7 @@ msgstr "Agregar a favoritos"
 #: /home/felipe/Projets/github/Notes-up/po/../src/Widgets/PagesList.vala:157
 #: /home/felipe/Projets/github/Notes-up/po/../src/Widgets/PagesList.vala:181
 msgid "New Page"
-msgstr "Nueva Página"
+msgstr "Nueva página"
 
 #: /home/felipe/Notes-up/po/../src/Widgets/NewNotebookDialog.vala:104
 msgid "Properties"
@@ -98,15 +98,15 @@ msgstr "Restaurar"
 #: /home/felipe/Projets/github/Notes-up/po/../src/Widgets/PagesList.vala:167
 #, c-format
 msgid "%i Pages"
-msgstr "%i Páginas"
+msgstr "%i páginas"
 
 #: /home/felipe/Projets/github/Notes-up/po/../src/Widgets/NotebookItem.vala:47
 msgid "New Section"
-msgstr "Nueva Sección"
+msgstr "Nueva sección"
 
 #: /home/felipe/Projets/github/Notes-up/po/../src/Widgets/NotebookItem.vala:48
 msgid "Delete Notebook"
-msgstr "Borrar Cuaderno"
+msgstr "Borrar cuaderno"
 
 #: /home/felipe/Notes-up/po/../src/Widgets/Viewer.vala:25
 msgid "Default"
@@ -151,7 +151,7 @@ msgstr "Mostrar números de linea:"
 #: /home/felipe/Notes-up/po/../src/Widgets/PreferencesDialog.vala:153
 #: /home/felipe/Notes-up/po/../src/Widgets/NewNotebookDialog.vala:137
 msgid "Stylesheet:"
-msgstr "Hoja de Estilo:"
+msgstr "Hoja de estilo:"
 
 #: /home/felipe/Projets/github/Notes-up/po/../src/Widgets/PreferencesDialog.vala:138
 msgid "Global Stylesheet"
@@ -171,7 +171,7 @@ msgstr "Negritas"
 
 #: /home/felipe/Projets/github/Notes-up/po/../src/Widgets/Editor.vala:165
 msgid "Add italic to text"
-msgstr "Itálicas"
+msgstr "Cursivas"
 
 #: /home/felipe/Projets/github/Notes-up/po/../src/Widgets/Editor.vala:166
 msgid "Strikethrough text"
@@ -213,7 +213,7 @@ msgstr[1] "%i Páginas"
 
 #: /home/felipe/Projets/github/Notes-up/po/../src/Widgets/BookmarkItem.vala:54
 msgid "Remove"
-msgstr "Remover"
+msgstr "Borrar"
 
 #: /home/felipe/Projets/github/Notes-up/po/../src/Application.vala:36
 msgid "Notes-up"
@@ -221,7 +221,7 @@ msgstr "Notes-up"
 
 #: /home/felipe/Projets/github/Notes-up/po/../src/Application.vala:37
 msgid "Your Markdown Notebook."
-msgstr "Your Markdown Notebook"
+msgstr "Tu cuaderno de notas en Markdown."
 
 #: /home/felipe/Projets/github/Notes-up/po/../src/Application.vala:38
 msgid "About Notes"
